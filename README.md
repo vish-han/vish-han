@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on My Android Project.
+- 🔭 I’m currently working on Data Structures And Algo.
 - 🌱 I’m currently learning Android and DSA.
 - 👯 I’m looking to collaborate on Android OpenSource Project.
 - 💬 Ask me about Android or any general stuff😊.
