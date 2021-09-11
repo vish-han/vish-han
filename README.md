@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Im a very good Cricket player.
 
-<img src= "https://github-readme-stats.vercel.app/api?username=noushadBug&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true">
+<img src= "https://github-readme-stats.vercel.app/api?username=vish-han&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vish-han&langs_count=5&theme=tokyonight)]()">
