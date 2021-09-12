@@ -33,10 +33,10 @@
 
 <br><br>
 <a href="https://github.com/vish-han">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish-han&theme=dark">
 </a>
 <a href="https://github.com/vish-han">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vish-han&show_icons=true&theme=dark&line_height=30" alt="Vishal Github Stats"/>
 </a>
 
 ⭐️ From [Vishal Chauhan](https://github.com/vish-han)
