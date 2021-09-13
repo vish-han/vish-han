@@ -41,5 +41,5 @@
 </a>
 
 ⭐️ From [Vishal Chauhan](https://github.com/vish-han)
-<a ⭐️Show some LOVE bt Starring my Repos..😚/>
-</a>
+
+
