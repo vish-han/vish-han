@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm [Vishal Chauhan!](https://github.com/vish-han) 
+## I'm [Vishal Chauhan!](https://github.com/vish-han) 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-han&label=Views&color=blue&style=plastic" alt="vish-han" /> </p>
 
 
