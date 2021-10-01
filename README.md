@@ -40,9 +40,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vish-han&show_icons=true&theme=dark&line_height=30" alt="Vishal Github Stats"/>
 </a>
 
-<a href="https://github.com/vish-han">
- <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)"/>
-</a>
+
 
 ⭐️ From [Vishal Chauhan](https://github.com/vish-han)
 
