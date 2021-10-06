@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
- <a href="https://dev.to/">
+ <a href="https://dev.to/vishal576/">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
 </a>
 <a href="https://twitter.com/VishaltheCoder">
