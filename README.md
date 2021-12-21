@@ -7,7 +7,7 @@
  <a href="https://dev.to/vishal576/">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
 </a>
-<a href="https://twitter.com/VishaltheCoder">
+<a href="https://twitter.com/VishalDev09">
   <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in//">
