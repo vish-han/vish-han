@@ -21,10 +21,10 @@
 
 
 
-- :telescope: I'm currently studying BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning DSA and BlockChain;
+- :telescope: I'm currently studying BTech in IT 💻;
+- :hourglass_flowing_sand: Learning DSA and Blockchain;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering), MAIT; 
+- :man_technologist: B.Tech(Information Technology), MAIT; 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 - 📫 How to reach me:[@VishalTheCoder](https://twitter.com/VishaltheCoder);
 
