@@ -22,7 +22,7 @@
 
 
 - :telescope: I'm currently studying BTech in IT 💻;
-- :hourglass_flowing_sand: Learning DSA and Blockchain;
+- :hourglass_flowing_sand: Learning DSA and Front-end Devlopment;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :man_technologist: B.Tech(Information Technology), MAIT; 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
