@@ -30,12 +30,16 @@
 
 <br>
 
+
+
 ##
+
+
 
 ### Technologies and Tools:
 
 <div align="center">
-<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" title="Java"/></code>
+<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" title="React"/></code>
 <code><img alt="Spring" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring"/></code>
 <code><img alt="Hibernate" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
 <code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
