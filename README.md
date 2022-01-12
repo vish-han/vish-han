@@ -28,6 +28,10 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 - 📫 How to reach me:[@VishalTheCoder](https://twitter.com/VishaltheCoder);
 
+<br>
+
+##
+
 ### Technologies and Tools:
 
 <div align="center">
