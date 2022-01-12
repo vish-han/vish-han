@@ -26,30 +26,7 @@
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :man_technologist: B.Tech(Information Technology), MAIT; 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me:[@VishalTheCoder](https://twitter.com/VishaltheCoder);
-
-<br>
-
-
-
-##
-
-
-
-### Technologies and Tools:
-
-<div align="center">
-<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" title="React"/></code>
-<code><img alt="Spring" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring"/></code>
-<code><img alt="Hibernate" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
-<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
-<code><img alt="Vue 3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
-<code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
-<code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
-<code><img alt="Bootstrap" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
-<code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
-<code><img alt="Intellij-Idea" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
-</div>
+- 📫 How to reach me:[@VishalDev09](https://twitter.com/VishalDev09);
 
 
 <br>
