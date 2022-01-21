@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-han&label=Profile%20views&color=0e75b6&style=flat" alt="vish-han" /> </p>
 
