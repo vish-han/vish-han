@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
+<h1 align="center">Namaste 🙏, I'm Vishal Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473iut2z4mg0c3g21etusuf2zx8sf8gcc1cha5em3q&rid=giphy.gif&ct=g" alt="Coder GIF" width=1100" height="400">
 
