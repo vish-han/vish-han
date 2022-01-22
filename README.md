@@ -33,3 +33,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vish-han&show_icons=true&locale=en" alt="vish-han" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vish-han&" alt="vish-han" /></p>
+                                                                                                                           
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=syedareehaquasar&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
+                                                                                                                           
