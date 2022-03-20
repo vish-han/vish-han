@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **iNoteBook**
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **Docker And K8s**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate for  **Hackathons and Projects**
 
-- 💬 Ask me about **React, JS and DSA**
+- 💬 Ask me about **React,and DSA**
 
 - 📫 How to reach me **@VishalDev**
 
