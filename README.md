@@ -3,8 +3,18 @@
 <h3 align="center">A Passionate Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-han&label=Profile%20views&color=0e75b6&style=flat" alt="vish-han" /> </p>
+```js
+const name = 'Vishal Chauhan';
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+```
 
 - 🔭 I’m currently working on **iNoteBook**
 
