@@ -3,6 +3,7 @@
 <h3 align="center">A Passionate Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-han&label=Profile%20views&color=0e75b6&style=flat" alt="vish-han" /> </p>
+
 ```js
 const name = 'Vishal Chauhan';
 
@@ -16,17 +17,6 @@ while(dev.isCoding())
 }
 ```
 
-- 🔭 I’m currently working on **iNoteBook**
-
-- 🌱 I’m currently learning **Docker And K8s**
-
-- 👯 I’m looking to collaborate for  **Hackathons and Projects**
-
-- 💬 Ask me about **React,and DSA**
-
-- 📫 How to reach me **@VishalDev**
-
-- ⚡ Fun fact **I am a Cinephile🎬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
