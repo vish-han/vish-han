@@ -1,8 +1,7 @@
 
 <h1 align="center">Namaste 🙏, I'm Vishal Chauhan</h1>
 <h3 align="center">A Passionate Front-end Developer from India</h3>
-<img align="center" src="![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/44545745/159305628-24fec59a-74e8-4ad6-bd95-d978b79a5ace.png)
-" alt="Coder GIF" width=1100" height="400">
+\
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-han&label=Profile%20views&color=0e75b6&style=flat" alt="vish-han" /> </p>
 
