@@ -8,6 +8,8 @@
 const name = 'Vishal Chauhan';
 
 Developer dev = new Developer(name);
+dev.age=18;
+dev.favLanguage="JavaScript"
 
 while(dev.isCoding())
 {
@@ -15,6 +17,7 @@ while(dev.isCoding())
   dev.openStackOverFlow();
   dev.drinkWater();
 }
+
 ```
 
 
