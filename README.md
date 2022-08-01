@@ -36,6 +36,6 @@ while(dev.isCoding())
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vish-han&theme=radical" alt="sanchitvj" width="400" /></p>
 <p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=vish-han&show_icons=true&locale=en&theme=blue-green" alt="sanchitvj" width="400" /></p>  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vish-han)]
 ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=syedareehaquasar&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
                                                                                                                            
