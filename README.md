@@ -21,7 +21,7 @@ while(dev.isCoding())
 ```
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🚀:</h3>
 <p align="center">
 <a href="https://dev.to/vishal576" target="blank" margin="3px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishal576" height="60" width="60" /></a>
 <a href="https://twitter.com/@vishaldev09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishaldev09" height="60" width="60" /></a>
