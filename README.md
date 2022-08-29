@@ -15,6 +15,7 @@ dev.favLanguage="JavaScript"
 while(dev.isCoding())
 {
   dev.listenToMusic();
+  dev.watchNaruto();
   dev.openStackOverFlow();
   dev.drinkWater();
   dev.loveGym();
