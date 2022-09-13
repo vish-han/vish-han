@@ -1,6 +1,6 @@
 
 <h1 align="center">Namaste!!! 🙏, I'm Vishal Chauhan</h1>
-<h3 align="center">A Passionate <code>Web Developer</code> and <code>Web3 Guy🌐 </code>   from India</h3>
+<h3 align="center">A Passionate <code>Web Developer</code> and <code>Web3 Guy🌐</code>   from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-han&label=Profile%20views&color=0e75b6&style=flat" alt="vish-han" /> </p>
 
